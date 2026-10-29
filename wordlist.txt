@@ -1,0 +1,5 @@
+admin
+login
+index.php
+wp-admin
+robots.txt
